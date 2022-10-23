@@ -33,4 +33,4 @@ npm run serve
 ```
 npm run build
 ``` 
-## [Посилання на сайт](https://jgordaja.github.io/exam_1_beetroot/)
+## [Посилання на сайт](https://jgordaja.github.io/credit_card_page/)

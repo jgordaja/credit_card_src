@@ -3,7 +3,6 @@
     "target": "es5",
     "module": "esnext",
     "baseUrl": "https://credit-card-beetroot.herokuapp.com/",
-    "port": "process.env.PORT || 5000",
     "moduleResolution": "node",
     "paths": {
       "@/*": [
